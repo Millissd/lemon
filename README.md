@@ -3,11 +3,11 @@
 
 #________COMPULSORY____________#
 
-TG_BOT_TOKEN = ""  # ENTER BOT TOKEN (Get your BOT_TOKEN by talking to @botfather)
-APP_ID = 
-API_HASH = ""
-OWNER_ID = 
-AUTH_CHANNEL = "" #Add IDs separated by a SPACE (Like :: -10012503747 1139304682)
+TG_BOT_TOKEN = "5408065564:AAFnjpw_kmuONQUk7vvhaRYCWiF4JdEfSzs"   (Get your BOT_TOKEN by talking to @botfather)
+APP_ID = 14628899
+API_HASH = "c5f8d5cd4fd9206add14bc12d53f9e5b"
+OWNER_ID = 1139304682
+AUTH_CHANNEL = "641725761" #Add IDs separated by a SPACE (Like :: -10012503747 1139304682)
 
 
 #________NOT COMPULSORY____________#
