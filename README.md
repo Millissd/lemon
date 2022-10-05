@@ -10,15 +10,7 @@ OWNER_ID = 1139304682
 AUTH_CHANNEL = "641725761" #Add IDs separated by a SPACE (Like :: -10012503747 1139304682)
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Au3s0C?referralCode=HUAqbE
-
-
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Au3s0C?referralCode=HUAqbE)
-
-
-
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QIqjjV?referralCode=HUAqbE)
 
 
 #________NOT COMPULSORY____________#
